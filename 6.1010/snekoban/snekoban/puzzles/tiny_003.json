@@ -1,7 +1,0 @@
-[
-  [["wall"], ["wall"], ["wall"], ["wall"], ["wall"], ["wall"], ["wall"]],
-  [["wall"], [], ["target"], [], [], [], ["wall"]],
-  [["wall"], [], ["computer"], [], [], [], ["wall"]],
-  [["wall"], [], ["player"], ["computer"], ["target"], [], ["wall"]],
-  [["wall"], ["wall"], ["wall"], ["wall"], ["wall"], ["wall"], ["wall"]]
-]

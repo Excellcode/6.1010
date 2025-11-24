@@ -1,1 +1,0 @@
-Sub(Div(Num(-1), Var('I')), Num(-1))
